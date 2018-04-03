@@ -1,8 +1,0 @@
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/CMakeFiles/edit_cache.dir
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/CMakeFiles/rebuild_cache.dir
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/external/CMakeFiles/edit_cache.dir
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/external/CMakeFiles/rebuild_cache.dir
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/external/CMakeFiles/linalg.dir
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/src/CMakeFiles/rebuild_cache.dir
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/src/CMakeFiles/edit_cache.dir
-/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/build/src/CMakeFiles/main.dir
