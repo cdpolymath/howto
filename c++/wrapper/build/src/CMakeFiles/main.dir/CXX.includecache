@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/src/main.cpp
+cstdlib
+-
+

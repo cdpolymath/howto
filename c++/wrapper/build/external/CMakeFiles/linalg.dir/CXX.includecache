@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/external/linalg.cpp
+linalg.hpp
+/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/external/linalg.hpp
+
+/home/cdoucet/Depots/cdpolymath/howto/c++/wrapper/external/linalg.hpp
+cstdlib
+-
+vector
+-
+
